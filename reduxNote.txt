@@ -1,0 +1,10 @@
+1. store create
+2. react er sathe connect korte hobe with provider
+3. slice banate hobe
+4. slice connect korte hobe store er sathe
+5. dhore dhore reducer er sathe connect korte hobe
+6. dispatch korar jnno
+7. dispatch er kaj send kora
+8. useSelector er kaj consume kora
+
+
